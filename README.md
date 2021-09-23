@@ -9,6 +9,7 @@ Sample website with plenty of files for demos
 ## Deployment 
 Sample text 
 
+This is a simple training set of text
 ### Description
 
 ### How to Contribute 

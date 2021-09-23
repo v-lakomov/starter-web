@@ -19,3 +19,7 @@ Some more sample text
 How to contribute sample text
 
 Sample text on how to contribute
+
+## Copyright
+
+2014 Git.training

@@ -20,6 +20,8 @@ How to contribute sample text
 
 Sample text on how to contribute
 
+
+Lesson on automatic merges
 ## Copyright
 
 2014 Git.training
